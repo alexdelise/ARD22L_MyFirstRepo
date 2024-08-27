@@ -8,7 +8,5 @@ I want to test various things in markdown's environment like...
 - **Changing the text to bold**
 - *Changing the text to italics*
 - Using latex to include cool mathematical expressions
-  $$
-    U_C^{ma}(\vec{\gamma}) = e^{-i \sum_{i<j} \gamma_{ij} C_{ij}} e^{-i \sum_i \gamma_i C_i} \quad U_B^{ma}(\vec{\beta}) = e^{-i \sum_i \beta_i B_i}.
-  $$
+  $$U_C^{ma}(\vec{\gamma}) = e^{-i \sum_{i<j} \gamma_{ij} C_{ij}} e^{-i \sum_i \gamma_i C_i} \quad U_B^{ma}(\vec{\beta}) = e^{-i \sum_i \beta_i B_i}$$
 - Even including emojis :smile:
